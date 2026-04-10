@@ -2,7 +2,7 @@
 
 1.	Diagrama componente:
 
-![Diagrama nu se poate afisa](<img width="1027" height="1022" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/45d6bfa8-add0-44f3-9f46-dfe353a24bbf" />
+![Diagrama nu se poate afisa](<img width="1027" height="1022" alt="Screenshot (215)" src="https://github.com/Lawenda700/InkTime/blob/main/Images/Screenshot%20(216).png" />
 )
 
  2.	BOM cu componentele folosite:
